@@ -734,3 +734,6 @@ a:hover ~ .cursor, button:hover ~ .cursor { transform: translate(-50%,-50%) scal
   .footer-inner { flex-direction: column; gap: 0.75rem; text-align: center; }
   .cert-grid { grid-template-columns: 1fr; }
 }
+body{
+  border: 8px solid red;
+}
